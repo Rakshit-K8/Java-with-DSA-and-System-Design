@@ -1,1 +1,42 @@
+COMPUTER BASICS
 
+1.What is a computer
+
+It is an electronic device which stores and processes data in binary form.
+The processing is done according to variable programmes.
+
+2.What is RAM
+
+It stands for Random Access Memory.
+It is directly connected to processor over a data bus.
+It is compact,versatile and non volatile.
+
+3.Where is data stored in computer
+
+It is stored in different forms in primary memory, secondary memory and processor
+
+Data is primary memory is stored in form of bytes.
+Data is secondary memory is stored in form of files.
+Data is processor is stored in registers.
+
+4.What is that input device used to type text and numbers on a document in a computer system?
+
+Keyboard is that input device used to type text and numbers on a document in a computer system.
+
+5.What are the output devices?
+
+Output devices are used to display output after processor performs computations of input data.
+Monitor,speakers,plotters,printers are examples of output devices.
+
+6.Which is that input device that allows a user to move the cursor or pointer on the screen?
+
+Mouse is that input device that allows a user to move the cursor or pointer on the screen.
+
+7.Which language is directly understood by the computer without a translation program?
+
+Machine level Language is directly understood by the computer without a translation program.
+
+8.What are input devices?
+
+Devices which are used to give input to the processor so that it can execute it.
+Mouse,Keyboard are examples of input devices.
